@@ -1,0 +1,242 @@
+[
+  {
+    "nombre": "Sherlock Holmes",
+    "pistas": [
+      "Soy un detective británico muy famoso.",
+      "Mi mejor amigo se llama Watson.",
+      "Vivo en el 221B de Baker Street, Londres."
+    ]
+  },
+  {
+    "nombre": "Harry Potter",
+    "pistas": [
+      "Soy un mago huérfano.",
+      "Asistí a una escuela llamada Hogwarts.",
+      "Tengo una cicatriz en forma de rayo en la frente."
+    ]
+  },
+  {
+    "nombre": "Darth Vader",
+    "pistas": [
+      "Fui un Jedi antes de pasarme al Lado Oscuro.",
+      "Soy el padre de Luke Skywalker.",
+      "Uso un casco negro y respiro de forma muy característica."
+    ]
+  },
+  {
+    "nombre": "Pikachu",
+    "pistas": [
+      "Soy de color amarillo.",
+      "Puedo lanzar ataques eléctricos.",
+      "Acompaño a un entrenador llamado Ash."
+    ]
+  },
+  {
+    "nombre": "Super Mario",
+    "pistas": [
+      "Soy un fontanero italiano.",
+      "Llevo gorra roja y bigote.",
+      "Intento rescatar siempre a la princesa Peach."
+    ]
+  },
+  {
+    "nombre": "Indiana Jones",
+    "pistas": [
+      "Soy un arqueólogo y aventurero.",
+      "Llevo un sombrero fedora y un látigo.",
+      "He luchado contra nazis en busca de artefactos antiguos."
+    ]
+  },
+  {
+    "nombre": "Elsa",
+    "pistas": [
+      "Soy una reina con poderes de hielo.",
+      "Vivo en el reino de Arendelle.",
+      "Mi hermana se llama Anna."
+    ]
+  },
+  {
+    "nombre": "Spider-Man",
+    "pistas": [
+      "Vivo en Nueva York.",
+      "Fui picado por una araña radiactiva.",
+      "Mi nombre real es Peter Parker."
+    ]
+  },
+  {
+    "nombre": "Batman",
+    "pistas": [
+      "Protejo la ciudad de Gotham.",
+      "No tengo superpoderes, pero sí muchos gadgets.",
+      "Mi identidad secreta es Bruce Wayne."
+    ]
+  },
+  {
+    "nombre": "Yoda",
+    "pistas": [
+      "Soy pequeño, verde y sabio.",
+      "Entrené a muchos Jedi durante siglos.",
+      "Hablo con un orden curioso las frases."
+    ]
+  },
+  {
+    "nombre": "Lara Croft",
+    "pistas": [
+      "Soy una arqueóloga intrépida.",
+      "Soy protagonista del videojuego Tomb Raider.",
+      "Uso dos pistolas y exploro templos antiguos."
+    ]
+  },
+  {
+    "nombre": "Gandalf",
+    "pistas": [
+      "Soy un mago del universo de Tolkien.",
+      "Mi frase famosa es: '¡No puedes pasar!'",
+      "Ayudo a Frodo y los hobbits en su viaje."
+    ]
+  },
+  {
+    "nombre": "Simba",
+    "pistas": [
+      "Soy el heredero del reino.",
+      "Mi padre fue Mufasa.",
+      "Soy el protagonista de 'El Rey León'."
+    ]
+  },
+  {
+    "nombre": "Iron Man",
+    "pistas": [
+      "Soy un genio multimillonario filántropo.",
+      "Mi traje está hecho de metal y tecnología avanzada.",
+      "Mi nombre real es Tony Stark."
+    ]
+  },
+  {
+    "nombre": "Goku",
+    "pistas": [
+      "Soy un guerrero saiyajin.",
+      "Puedo transformarme en Super Saiyan.",
+      "Soy el protagonista de Dragon Ball."
+    ]
+  },
+  {
+    "nombre": "Hermione Granger",
+    "pistas": [
+      "Soy una de las mejores alumnas de Hogwarts.",
+      "Mis amigos son Harry y Ron.",
+      "Me encanta leer y siempre tengo una solución lógica."
+    ]
+  },
+  {
+    "nombre": "Link",
+    "pistas": [
+      "Soy un héroe del reino de Hyrule.",
+      "Lucho contra Ganon para salvar a la princesa Zelda.",
+      "Voy armado con una espada y un escudo."
+    ]
+  },
+  {
+    "nombre": "Jack Sparrow",
+    "pistas": [
+      "Soy un pirata bastante peculiar.",
+      "Comando el Perla Negra.",
+      "Siempre tengo una botella de ron cerca."
+    ]
+  },
+  {
+    "nombre": "Luke Skywalker",
+    "pistas": [
+      "Soy un Jedi que creció en Tatooine.",
+      "Mi padre es Darth Vader.",
+      "Mi hermana es la princesa Leia."
+    ]
+  },
+  {
+    "nombre": "Hércules",
+    "pistas": [
+      "Soy un semidiós de la mitología griega.",
+      "Poseo una fuerza sobrehumana.",
+      "Soy hijo de Zeus."
+    ]
+  },
+  {
+    "nombre": "Megamente",
+    "pistas": [
+      "Soy un villano azul con una gran cabeza.",
+      "Terminé convirtiéndome en héroe.",
+      "Fui creado en una película animada de DreamWorks."
+    ]
+  },
+  {
+    "nombre": "Sonic",
+    "pistas": [
+      "Soy un erizo azul muy rápido.",
+      "Colecciono anillos dorados.",
+      "Mi enemigo principal es el Dr. Robotnik."
+    ]
+  },
+  {
+    "nombre": "Optimus Prime",
+    "pistas": [
+      "Soy el líder de los Autobots.",
+      "Puedo transformarme en un camión.",
+      "Lucho contra los Decepticons."
+    ]
+  },
+  {
+    "nombre": "Shrek",
+    "pistas": [
+      "Soy un ogro verde.",
+      "Vivo en un pantano.",
+      "Mi mejor amigo es un burro hablador."
+    ]
+  },
+  {
+    "nombre": "Donkey Kong",
+    "pistas": [
+      "Soy un gorila grande y fuerte.",
+      "Aparecí por primera vez en un videojuego de Mario.",
+      "Me encantan los plátanos."
+    ]
+  },
+  {
+    "nombre": "Wolverine",
+    "pistas": [
+      "Tengo garras de adamantium.",
+      "Soy miembro de los X-Men.",
+      "Mi nombre real es Logan."
+    ]
+  },
+  {
+    "nombre": "Homer Simpson",
+    "pistas": [
+      "Trabajo en una central nuclear.",
+      "Vivo en Springfield.",
+      "Mi frase más famosa es '¡D'oh!'."
+    ]
+  },
+  {
+    "nombre": "R2-D2",
+    "pistas": [
+      "Soy un droide pequeño y valiente.",
+      "Pertenezco al universo de Star Wars.",
+      "Solo me comunico con pitidos."
+    ]
+  },
+  {
+    "nombre": "Woody",
+    "pistas": [
+      "Soy un vaquero de juguete.",
+      "Mi mejor amigo es Buzz Lightyear.",
+      "Soy el líder del grupo en Toy Story."
+    ]
+  },
+  {
+    "nombre": "Buzz Lightyear",
+    "pistas": [
+      "Soy un guardián espacial.",
+      "Mi frase famosa es '¡Hasta el infinito y más allá!'",
+      "Soy un juguete del universo de Toy Story."
+    ]
+  }
+]
